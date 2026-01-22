@@ -174,4 +174,3 @@ I recommend [component](http://github.com/component/component), a more robust su
 ### The Repository
 
  By default the repo bundled with `asset` is used, however the `~/.assets` configuration file is checked first. Perhaps down the road if/when asset becomes more flexible a repo will be hosted, for now simply fork the project edit `./assets.json`, and send a pull request.
-

@@ -1,4 +1,3 @@
-
 # Asset
 
   Asset manager for lazy people (think homebrew for assets). Somewhat defunct unless someone wants to maintain it, otherwise
